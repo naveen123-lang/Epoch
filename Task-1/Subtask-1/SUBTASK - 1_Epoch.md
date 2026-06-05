@@ -113,5 +113,5 @@
 
 &#x20;    medium articles to know how to code these transformers and LLM was mostly used for error debugging and reshaping of tensors and loss 
 
-&#x20;    logits . Thank you once again.
+&#x20;    logits . Thank you once again. By the way demo model is in my colab notebook which I submitted.
 
