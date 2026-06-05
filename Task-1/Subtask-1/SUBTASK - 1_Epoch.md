@@ -95,7 +95,8 @@
 
 ##### \-> Conclusion
 
-&#x20;    !\[training and validation]
+<img width="857" height="701" alt="image" src="https://github.com/user-attachments/assets/44fcffac-52bd-44f5-bf63-74cb46f2f538" />
+
 
 &#x20;    As you can see the losses are decreasing means the model is good and not overfitting and just enough to predict things good.
 
