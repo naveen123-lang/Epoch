@@ -85,7 +85,8 @@
 
 ##### \-> Attention Visualizations
 
-&#x20;   !\[Attention\_weights]
+<img width="790" height="700" alt="Attention_heatmap" src="https://github.com/user-attachments/assets/6f4f12c1-6eab-4022-a352-95f34395ce29" />
+
 
 &#x20;   The X\_axis is keys and Y\_axis is queries . This matrix says how each word is related to other by using purely maths , somethings like
 
