@@ -57,7 +57,8 @@
 
 &#x20;    Very less to write in this report from my side since I didn't do anything much . All the time I spent was on debugging and taking care that I understood everything I wrote and I don't have any data leakage to my model. But still I to think that I should have spent more time on this model and try to examine what is the issue . I am pasting my training and validation losses down there . The main task is to understand the architecture I think I did that part well . Thank you for all the heads for helping me in this task.
 
-!\[Train\_val\_loss]
+<img width="875" height="701" alt="image" src="https://github.com/user-attachments/assets/779c71d1-a60e-47a6-9924-73b20e67b7d9" />
+
 
 
 
