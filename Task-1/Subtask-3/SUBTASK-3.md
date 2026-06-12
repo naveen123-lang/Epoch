@@ -71,7 +71,9 @@
 
 &#x20;   I am attaching my Epoch Losses here so that we can get an idea of how the model learnt
 
-&#x20;   !\[Loss Images]
+<img width="848" height="707" alt="image" src="https://github.com/user-attachments/assets/668ce23c-3142-4e22-a510-90163662d934" />
+
+&#x20;   Thank you for all the heads for helping me learn.
 
 
 
