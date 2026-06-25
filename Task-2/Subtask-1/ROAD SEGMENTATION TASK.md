@@ -36,7 +36,8 @@ All the layers are designed based on the model in the original paper.
 
 &#x20;        This also has the same flow of size and channels , the only change was in the skip connections which used Attention gates to capture the relation between the lower layer of decoder and the corresponding layer in encoder , capturing both spatial and masking information.
 
-!\[Image of Attention block]
+<img width="877" height="292" alt="Attention_gate" src="https://github.com/user-attachments/assets/624a67b1-0547-4770-92c9-91d70a51bbfa" />
+
 
 
 
@@ -66,5 +67,6 @@ All the layers are designed based on the model in the original paper.
 
 &#x20;    As last I am attaching my validation vs training loss , I only trained for 5 epochs but still it gave a very good result. Visualizations of the road segmentation are in the colab notebook.
 
-!\[Losses image]
+<img width="957" height="755" alt="Road_loss" src="https://github.com/user-attachments/assets/0931db80-ba98-46bc-9e21-bbeb0b701c0c" />
+
 
